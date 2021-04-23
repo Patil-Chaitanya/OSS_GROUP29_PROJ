@@ -8,6 +8,8 @@
 
 ### What's in the Repo?
 The Repo includes scripts and images (devices and logos).
+
+```
 webpages/
 ├── index.html
 ├── css/
