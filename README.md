@@ -1,5 +1,5 @@
 # Open Source Software Engineering - Group 29 - Assignment 4 
- * Project is written in Python and Java.
+ * Project is written in Python,Javascript,HTML and CSS.
  * Contributors Involved and Repo links :
    * Patil Chaitanya <https://github.com/Patil-Chaitanya/OSS_GROUP29_PROJ.git>
    * Anirudh Reddy <https://github.com/anirudhreddy12/OSS_GROUP29_PROJ.git>
