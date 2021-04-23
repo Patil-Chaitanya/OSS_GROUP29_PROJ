@@ -19,7 +19,6 @@ webpages/
 ├── js/
 │   ├── webslides.js
 │   └── svg-icons.js (optional)
-└── demos/
 └── images/
 ```
  
