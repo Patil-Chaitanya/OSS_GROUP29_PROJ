@@ -21,18 +21,3 @@ webpages/
 │   └── svg-icons.js (optional)
 └── images/
 ```
- 
- 
-# To solve any quadratic expression
-
-User can input the expression , the program will solve and give the output values
-
-# Area
-
-User can find any Area Of shapes - includes 
-  * Square
-  * Rectange
-  * Triangle 
-  * Circle 
-  * Parallelogram 
-  * Trapezoid
